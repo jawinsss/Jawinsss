@@ -1,8 +1,7 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=<jawinsss>&theme=aura&hide_border=true" width="50%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<jawinsss>&theme=aura&hide_border=true&layout=compact&cache_seconds=1800" width="36%" /> </br>
+/> </br>
 </div>
 
 
